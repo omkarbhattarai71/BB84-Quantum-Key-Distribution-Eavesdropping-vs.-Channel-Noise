@@ -225,3 +225,9 @@ __marimo__/
 /R.pdf
 
 /figures/*.pdf
+
+/build_report.py
+
+/CODE_EXPLAINED.md
+
+/VALIDATION.txt
